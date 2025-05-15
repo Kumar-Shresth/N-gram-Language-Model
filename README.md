@@ -14,6 +14,6 @@ This project implements an optimized n-gram language model using unigram, bigram
 
 ## How to Run
 
-- Open the `NGram_Language_Model.ipynb` notebook in Jupyter Notebook or JupyterLab.
+- Open the `main.ipynb` notebook in Jupyter Notebook or JupyterLab.
 - Make sure to install the required Python packages (e.g., pandas, nltk, scipy) before running the notebook.
 - Execute the cells in order to reproduce preprocessing, training, and evaluation steps.
